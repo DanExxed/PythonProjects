@@ -135,9 +135,9 @@ Simply put, this allows you to share, adapt, publish, and modify our work as lon
 
 # development team
 
-Main developer - Rel Koro Kodona
+Main developer - Rel Koro Kodona - rel@terrorist.lol
 -----------------------------
-Other Stuff - Tobias Kendo
+Other Stuff - Tobias Kendo - azxell@terrorist.lol
 -----------------------------
-Testing - Indo Sindara
+Testing - Indo Sindara - Email kept private
 -------------------------

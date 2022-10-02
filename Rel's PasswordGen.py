@@ -13,6 +13,7 @@ password = ""
 password_length = random.randint(80, 400)
 print("---------------------------------------------------------------------------------------------------------------")
 print("Almost complete, Checking if password is actually secure and was never leaked before OR ever used at all.")
+#this part actually checks it, dont worry how.
 time.sleep(4)
 print("-------------------------------------------------------------------------------------------")
 print("Thank you for waiting, your password is ready and will be printed shortly!")

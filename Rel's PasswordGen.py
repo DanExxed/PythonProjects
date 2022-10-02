@@ -11,6 +11,7 @@ characters = string.ascii_letters + string.punctuation  + string.digits
 singer = "Rel Koro Kodona is rels full name"
 password = ""
 password_length = random.randint(80, 400)
+#Customize the length above by changing the numbers the layout is (minimum, maximum) for example (10, 40)
 print("---------------------------------------------------------------------------------------------------------------")
 print("Almost complete, Checking if password is actually secure and was never leaked before OR ever used at all.")
 #this part actually checks it, dont worry how.

@@ -136,5 +136,8 @@ Simply put, this allows you to share, adapt, publish, and modify our work as lon
 # development team
 
 Main developer - Rel Koro Kodona
+-----------------------------
 Other Stuff - Tobias Kendo
+-----------------------------
 Testing - Indo Sindara
+-------------------------

@@ -125,3 +125,16 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 
 # proper crediting
 Crediting is required if this project is used for programs, credits MUST go to Rel Koro Kodona OR rel@terrorist.lol AND to Tobias Kendo OR azxell@terrorist.lol, these credits are required for any reason at all, including publishing it.
+
+--------------------------------------------------------------------------------
+
+# putting the agreement shortly
+
+Simply put, this allows you to share, adapt, publish, and modify our work as long as you give us proper credit. Our development team is listed as the original creators in the File/Programs description, which we believe is appropriate. Furthermore, you may not make any claims or mislead anyone into believing you are the original creators. Failure to comply will result in DMCA takedowns once more.
+
+
+# development team
+
+Main developer - Rel Koro Kodona
+Other Stuff - Tobias Kendo
+Testing - Indo Sindara
